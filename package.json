@@ -12,7 +12,8 @@
     "husky": "^8.0.0"
   },
   "scripts": {
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "test": "echo this must be testing script"
   },
   "config": {
     "commitizen": {
